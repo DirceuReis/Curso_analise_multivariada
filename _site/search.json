@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Análise Multivariada",
+    "section": "",
+    "text": "Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas.\nSegue abaixo uma tentativa de cronograma:\n\n\n\nExemplos de uso de anáçise multivariada\nBreve revisão de álgebra linear\n\nSubespaço vetorial\nProjeção de vetor num subespaço vetorial\nInterpretação sobre \\(Ax\\)\nDecomposição de matriz via autovetores e autovalores\nDecomposição de valor singular\n\n\n\n\n\n\nDefinição e notação\nExemplos em 2 dimensões (interpretação geométrica)\nRelação com regressão linear\nExemplo mais interessante\n\n\n\n\n\nMatriz de correlação ou de covariância?\nPadronização/escalonamento dos PCs\nTerminologias existentes\nSeleção de subconjunto dos PCs\n\n\n\n\n\nO padrão Buell\nRotação para melhorar interpretação\n\n\n\n\n\nDefinição\n\n\n\n\n\n\n\n\n\n\n\nTeste de igualdade de variância\nTeste de igualdade da média (ANOVA)\nUso da ANOVA na previsibilidade de modelos de previsão\nMedidas de previsibilidade\n\n\n\n\n\nMANOVA como extensão da ANOVA\nDefinição de componentes de previsibilidade (PrCA)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "revisao.html#decomposição-da-matriz",
+    "href": "revisao.html#decomposição-da-matriz",
+    "title": "Revisão de álgebra linear",
+    "section": "Decomposição da matriz",
+    "text": "Decomposição da matriz\n\nDecomposição de valor singular\n\n\nDecomposição via autovalores e autovetores"
+  },
+  {
+    "objectID": "motivacao.html#exemplos-nas-ciências-atmosférias-e-na-hidrologia",
+    "href": "motivacao.html#exemplos-nas-ciências-atmosférias-e-na-hidrologia",
+    "title": "Motivação",
+    "section": "Exemplos nas ciências atmosférias e na hidrologia",
+    "text": "Exemplos nas ciências atmosférias e na hidrologia\n\nRepresentação simplificada de fenômenos climáticos\nIdentificação de teleconexão\nPrevisão de El-Niño, precipitação e vazão"
+  },
+  {
+    "objectID": "PCA.html#exemplo-em-duas-dimensões",
+    "href": "PCA.html#exemplo-em-duas-dimensões",
+    "title": "PCA",
+    "section": "Exemplo em duas dimensões",
+    "text": "Exemplo em duas dimensões"
+  },
+  {
+    "objectID": "PCA.html#matriz-de-covariância-ou-de-correlação",
+    "href": "PCA.html#matriz-de-covariância-ou-de-correlação",
+    "title": "PCA",
+    "section": "Matriz de covariância ou de correlação",
+    "text": "Matriz de covariância ou de correlação"
+  },
+  {
+    "objectID": "PCA.html#opções-de-padronização",
+    "href": "PCA.html#opções-de-padronização",
+    "title": "PCA",
+    "section": "Opções de padronização",
+    "text": "Opções de padronização"
+  },
+  {
+    "objectID": "PCA.html#terminologia-confusa-na-literatura",
+    "href": "PCA.html#terminologia-confusa-na-literatura",
+    "title": "PCA",
+    "section": "Terminologia confusa na literatura",
+    "text": "Terminologia confusa na literatura"
+  },
+  {
+    "objectID": "PCA.html#aplicações",
+    "href": "PCA.html#aplicações",
+    "title": "PCA",
+    "section": "Aplicações",
+    "text": "Aplicações"
+  },
+  {
+    "objectID": "PCA.html#como-extrair-os-componentes",
+    "href": "PCA.html#como-extrair-os-componentes",
+    "title": "PCA",
+    "section": "Como extrair os componentes?",
+    "text": "Como extrair os componentes?\n\nVia decomposição de valor singular\n\n\nVia autovalores e autovetores"
+  },
+  {
+    "objectID": "PCA.html#quantos-pcs-empregar",
+    "href": "PCA.html#quantos-pcs-empregar",
+    "title": "PCA",
+    "section": "Quantos PC’s empregar?",
+    "text": "Quantos PC’s empregar?\n\nPercentual da variância explicada e outros\n\n\nTestes de hipótheses"
+  },
+  {
+    "objectID": "PCA.html#o-padrao-buell-devido-ao-tamanho-do-domínio",
+    "href": "PCA.html#o-padrao-buell-devido-ao-tamanho-do-domínio",
+    "title": "PCA",
+    "section": "O padrao Buell devido ao tamanho do domínio",
+    "text": "O padrao Buell devido ao tamanho do domínio"
+  },
+  {
+    "objectID": "PCA.html#necessidae-de-rotação-para-melhorar-interpretação",
+    "href": "PCA.html#necessidae-de-rotação-para-melhorar-interpretação",
+    "title": "PCA",
+    "section": "Necessidae de rotação para melhorar interpretação",
+    "text": "Necessidae de rotação para melhorar interpretação"
+  },
+  {
+    "objectID": "motivacao.html",
+    "href": "motivacao.html",
+    "title": "Motivação",
+    "section": "",
+    "text": "Redução de dimensão de um problema\nIdentificação de padrão de variabilidade\nSeleção de preditores\nPrevisão multivariada"
+  },
+  {
+    "objectID": "motivacao.html#qual-a-utilidade-de-análise-multivariada",
+    "href": "motivacao.html#qual-a-utilidade-de-análise-multivariada",
+    "title": "Motivação",
+    "section": "",
+    "text": "Redução de dimensão de um problema\nIdentificação de padrão de variabilidade\nSeleção de preditores\nPrevisão multivariada"
+  },
+  {
+    "objectID": "revisao.html#decomposição-de-uma-matriz",
+    "href": "revisao.html#decomposição-de-uma-matriz",
+    "title": "Revisão de álgebra linear",
+    "section": "Decomposição de uma matriz",
+    "text": "Decomposição de uma matriz\n\nDecomposição de valor singular\nDecomposição via autovalores e autovetores"
+  },
+  {
+    "objectID": "index.html#apresentação",
+    "href": "index.html#apresentação",
+    "title": "Análise Multivariada",
+    "section": "",
+    "text": "Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas.\nSegue abaixo uma tentativa de cronograma:\n\n\n\nExemplos de uso de anáçise multivariada\nBreve revisão de álgebra linear\n\nSubespaço vetorial\nProjeção de vetor num subespaço vetorial\nInterpretação sobre \\(Ax\\)\nDecomposição de matriz via autovetores e autovalores\nDecomposição de valor singular\n\n\n\n\n\n\nDefinição e notação\nExemplos em 2 dimensões (interpretação geométrica)\nRelação com regressão linear\nExemplo mais interessante\n\n\n\n\n\nMatriz de correlação ou de covariância?\nPadronização/escalonamento dos PCs\nTerminologias existentes\nSeleção de subconjunto dos PCs\n\n\n\n\n\nO padrão Buell\nRotação para melhorar interpretação\n\n\n\n\n\nDefinição\n\n\n\n\n\n\n\n\n\n\n\nTeste de igualdade de variância\nTeste de igualdade da média (ANOVA)\nUso da ANOVA na previsibilidade de modelos de previsão\nMedidas de previsibilidade\n\n\n\n\n\nMANOVA como extensão da ANOVA\nDefinição de componentes de previsibilidade (PrCA)"
+  },
+  {
+    "objectID": "revisao.html",
+    "href": "revisao.html",
+    "title": "Revisão de álgebra linear",
+    "section": "",
+    "text": "Determinantes de matriz triangular é igual ao produtos dos pivots\n\nSeja A uma matriz triangular,\n\\[\\begin{gather*}\nA =  \\begin{bmatrix}\n   d_1 &   * &   * \\\\\n       & d_2 &   * \\\\\n       &     & d_3 \\\\\n   \\end{bmatrix}\n\\end{gather*}\\]\nentão o determinante de A, \\(det(A)\\), vale,\n\\[det(A) = \\prod_{i = 1}^{n} d_i\\]"
+  },
+  {
+    "objectID": "revisao.html#alguns-fatos-sobre-vetores-e-matrizes",
+    "href": "revisao.html#alguns-fatos-sobre-vetores-e-matrizes",
+    "title": "Revisão de álgebra linear",
+    "section": "",
+    "text": "Determinantes de matriz triangular é igual ao produtos dos pivots\n\nSeja A uma matriz triangular,\n\\[\\begin{gather*}\nA =  \\begin{bmatrix}\n   d_1 &   * &   * \\\\\n       & d_2 &   * \\\\\n       &     & d_3 \\\\\n   \\end{bmatrix}\n\\end{gather*}\\]\nentão o determinante de A, \\(det(A)\\), vale,\n\\[det(A) = \\prod_{i = 1}^{n} d_i\\]"
+  },
+  {
+    "objectID": "revisao.html#projeção-de-vetor-num-subespaço-vetorial",
+    "href": "revisao.html#projeção-de-vetor-num-subespaço-vetorial",
+    "title": "Revisão de álgebra linear",
+    "section": "Projeção de vetor num subespaço vetorial",
+    "text": "Projeção de vetor num subespaço vetorial"
+  }
+]

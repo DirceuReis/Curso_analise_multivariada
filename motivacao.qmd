@@ -1,0 +1,18 @@
+---
+title: "Motivação"
+---
+
+## Qual a utilidade de análise multivariada?
+
+- Redução de dimensão de um problema
+- Identificação de padrão de variabilidade
+- Seleção de preditores 
+- Previsão multivariada
+
+## Exemplos nas ciências atmosférias e na hidrologia
+
+- Representação simplificada de fenômenos climáticos
+
+- Identificação de teleconexão
+
+- Previsão de El-Niño, precipitação e vazão

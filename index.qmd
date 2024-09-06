@@ -1,0 +1,70 @@
+---
+title: "Análise Multivariada"
+description: |
+  Curso preparado para a Fundação Cearense de Meteorolgia e Recursos Hídricos.
+author:
+  - name: Dirceu S. Reis Jr.
+    orcid: 0000-0003-1787-9763
+    email: dirceureis@unb.br
+    url: https://github.com/DirceuReis
+    affiliations: 
+       name: Universidade de Brasília
+       department: Engenharia Civil e Ambiental
+       address: Campus Universitário Darcy Ribeiro
+       city: Brasília
+       country: Brasil
+       postal-code: 70.910-900  
+       url: https://www.unb.br
+---
+
+## Apresentação
+
+Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas.
+
+Segue abaixo uma tentativa de cronograma:
+
+### Aula 1 (2 horas): Motivação e revisão 
+-   Exemplos de uso de anáçise multivariada
+-   Breve revisão de álgebra linear
+    - Subespaço vetorial
+    - Projeção de vetor num subespaço vetorial
+    - Interpretação sobre $Ax$
+    - Decomposição de matriz via autovetores e autovalores
+    - Decomposição de valor singular
+    
+### Aula 2 (2 horas): Análise de componentes principais
+-   Definição e notação
+-   Exemplos em 2 dimensões (interpretação geométrica)
+-   Relação com regressão linear
+-   Exemplo mais interessante
+
+### Aula 3 (2 horas): Análise de componentes principais
+-   Matriz de correlação ou de covariância?
+-   Padronização/escalonamento dos PCs
+-   Terminologias existentes
+-   Seleção de subconjunto dos PCs
+    
+### Aula 4 (2 horas): Análise de componentes principais
+-   O padrão Buell
+-   Rotação para melhorar interpretação
+
+### Aula 5 (2 horas): Análise de correlações canônicas
+- Definição
+    
+### Aula 6 (2 horas): Análise de correlações canônicas
+
+### Aula 7 (2 horas): Análise de correlações canônicas
+
+### Aula 8 (2 horas): Análise de variânica e previsibilidade
+- Teste de igualdade de variância
+- Teste de igualdade da média (ANOVA)
+- Uso da ANOVA na previsibilidade de modelos de previsão
+- Medidas de previsibilidade
+   
+### Aula 9 (2 horas): Análise de componentes de previsibilidade
+- MANOVA como extensão da ANOVA
+- Definição de componentes de previsibilidade (PrCA)
+-
+
+### Aula 10 (2 horas): Análise de componentes de previsibilidade
+

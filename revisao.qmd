@@ -1,0 +1,30 @@
+---
+title: "Revisão de álgebra linear"
+---
+## Alguns fatos sobre vetores e matrizes
+
+- Determinantes de matriz triangular é igual ao produtos dos pivots
+
+Seja A uma matriz triangular,
+
+\begin{gather*}
+A =  \begin{bmatrix}
+   d_1 &   * &   * \\
+       & d_2 &   * \\
+       &     & d_3 \\
+   \end{bmatrix}
+\end{gather*}
+
+então o determinante de A, $det(A)$, vale,
+
+
+$$det(A) = \prod_{i = 1}^{n} d_i$$
+
+
+## Projeção de vetor num subespaço vetorial
+
+## Decomposição de uma matriz
+
+- Decomposição de valor singular
+
+- Decomposição via autovalores e autovetores

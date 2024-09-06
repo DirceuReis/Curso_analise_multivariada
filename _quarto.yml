@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Curso_website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: "Aulas"
+        menu:
+        - text: "Motivação"
+          href: motivacao.qmd
+        - text: "Revisão álgebra linear"
+          href: revisao.qmd
+        - text: "Análise de componentes principais"
+          href: PCA.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

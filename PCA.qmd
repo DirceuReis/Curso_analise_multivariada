@@ -1,0 +1,33 @@
+---
+title: "PCA"
+---
+
+## Definição
+
+## Exemplo em duas dimensões
+
+## Matriz de covariância ou de correlação
+
+## Opções de padronização
+
+## Terminologia confusa na literatura
+
+## Aplicações
+
+## Como extrair os componentes?
+
+### Via decomposição de valor singular
+
+### Via autovalores e autovetores
+
+## Quantos PC's empregar?
+
+### Percentual da variância explicada e outros
+
+### Testes de hipótheses
+
+### 
+
+## O padrao Buell devido ao tamanho do domínio
+
+## Necessidae de rotação para melhorar interpretação
