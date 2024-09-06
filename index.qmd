@@ -21,6 +21,8 @@ author:
 
 Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas.
 
+## Tentativa de cronograma
+
 Segue abaixo uma tentativa de cronograma:
 
 ### Aula 1 (2 horas): Motivação e revisão 

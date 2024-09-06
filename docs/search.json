@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Análise Multivariada",
     "section": "",
-    "text": "Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas.\nSegue abaixo uma tentativa de cronograma:\n\n\n\nExemplos de uso de anáçise multivariada\nBreve revisão de álgebra linear\n\nSubespaço vetorial\nProjeção de vetor num subespaço vetorial\nInterpretação sobre \\(Ax\\)\nDecomposição de matriz via autovetores e autovalores\nDecomposição de valor singular\n\n\n\n\n\n\nDefinição e notação\nExemplos em 2 dimensões (interpretação geométrica)\nRelação com regressão linear\nExemplo mais interessante\n\n\n\n\n\nMatriz de correlação ou de covariância?\nPadronização/escalonamento dos PCs\nTerminologias existentes\nSeleção de subconjunto dos PCs\n\n\n\n\n\nO padrão Buell\nRotação para melhorar interpretação\n\n\n\n\n\nDefinição\n\n\n\n\n\n\n\n\n\n\n\nTeste de igualdade de variância\nTeste de igualdade da média (ANOVA)\nUso da ANOVA na previsibilidade de modelos de previsão\nMedidas de previsibilidade\n\n\n\n\n\nMANOVA como extensão da ANOVA\nDefinição de componentes de previsibilidade (PrCA)"
+    "text": "Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas."
   },
   {
     "objectID": "index.html#apresentação",
     "href": "index.html#apresentação",
     "title": "Análise Multivariada",
     "section": "",
-    "text": "Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas.\nSegue abaixo uma tentativa de cronograma:\n\n\n\nExemplos de uso de anáçise multivariada\nBreve revisão de álgebra linear\n\nSubespaço vetorial\nProjeção de vetor num subespaço vetorial\nInterpretação sobre \\(Ax\\)\nDecomposição de matriz via autovetores e autovalores\nDecomposição de valor singular\n\n\n\n\n\n\nDefinição e notação\nExemplos em 2 dimensões (interpretação geométrica)\nRelação com regressão linear\nExemplo mais interessante\n\n\n\n\n\nMatriz de correlação ou de covariância?\nPadronização/escalonamento dos PCs\nTerminologias existentes\nSeleção de subconjunto dos PCs\n\n\n\n\n\nO padrão Buell\nRotação para melhorar interpretação\n\n\n\n\n\nDefinição\n\n\n\n\n\n\n\n\n\n\n\nTeste de igualdade de variância\nTeste de igualdade da média (ANOVA)\nUso da ANOVA na previsibilidade de modelos de previsão\nMedidas de previsibilidade\n\n\n\n\n\nMANOVA como extensão da ANOVA\nDefinição de componentes de previsibilidade (PrCA)"
+    "text": "Este é um curso de 16 horas sobre análise multivariada com foco em aplicações nas ciências atmosféricas e hidrológicas."
+  },
+  {
+    "objectID": "index.html#tentativa-de-cronograma",
+    "href": "index.html#tentativa-de-cronograma",
+    "title": "Análise Multivariada",
+    "section": "Tentativa de cronograma",
+    "text": "Tentativa de cronograma\nSegue abaixo uma tentativa de cronograma:\n\nAula 1 (2 horas): Motivação e revisão\n\nExemplos de uso de anáçise multivariada\nBreve revisão de álgebra linear\n\nSubespaço vetorial\nProjeção de vetor num subespaço vetorial\nInterpretação sobre \\(Ax\\)\nDecomposição de matriz via autovetores e autovalores\nDecomposição de valor singular\n\n\n\n\nAula 2 (2 horas): Análise de componentes principais\n\nDefinição e notação\nExemplos em 2 dimensões (interpretação geométrica)\nRelação com regressão linear\nExemplo mais interessante\n\n\n\nAula 3 (2 horas): Análise de componentes principais\n\nMatriz de correlação ou de covariância?\nPadronização/escalonamento dos PCs\nTerminologias existentes\nSeleção de subconjunto dos PCs\n\n\n\nAula 4 (2 horas): Análise de componentes principais\n\nO padrão Buell\nRotação para melhorar interpretação\n\n\n\nAula 5 (2 horas): Análise de correlações canônicas\n\nDefinição\n\n\n\nAula 6 (2 horas): Análise de correlações canônicas\n\n\nAula 7 (2 horas): Análise de correlações canônicas\n\n\nAula 8 (2 horas): Análise de variânica e previsibilidade\n\nTeste de igualdade de variância\nTeste de igualdade da média (ANOVA)\nUso da ANOVA na previsibilidade de modelos de previsão\nMedidas de previsibilidade\n\n\n\nAula 9 (2 horas): Análise de componentes de previsibilidade\n\nMANOVA como extensão da ANOVA\nDefinição de componentes de previsibilidade (PrCA)\n\n\n\n\nAula 10 (2 horas): Análise de componentes de previsibilidade"
   }
 ]
