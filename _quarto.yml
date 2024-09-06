@@ -17,6 +17,8 @@ website:
           href: revisao.qmd
         - text: "Análise de componentes principais"
           href: PCA.qmd
+        - text: "Teste apresentaão"
+          href: Teste_apresentacao.qmd
 
 format:
   html:
