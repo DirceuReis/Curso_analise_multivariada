@@ -1,0 +1,23 @@
+---
+title: "Teste_apresentacao"
+author: "John Doe"
+format: revealjs
+---
+## Determinante de uma matriz
+
+Determinantes de matriz triangular é igual ao produtos dos pivots
+
+Seja A uma matriz triangular,
+
+\begin{gather*}
+A =  \begin{bmatrix}
+   d_1 &   * &   * \\
+       & d_2 &   * \\
+       &     & d_3 \\
+   \end{bmatrix}
+\end{gather*}
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
